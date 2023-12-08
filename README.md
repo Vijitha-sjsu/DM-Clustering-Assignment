@@ -27,6 +27,10 @@ Colab Link - [![Open in Colab](https://colab.research.google.com/assets/colab-ba
 https://colab.research.google.com/drive/1rVNjZRskdII6z3CBT3RdIG5YjFg3kxHP?usp=sharing
 
 ## Anomaly detection
+Analysis done on bike rental dataset. 
+
+Colab Link - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DJ6BLB_y46H9GIjB0TZT155rkJlaVOkb?usp=sharing)
+
 https://colab.research.google.com/drive/1DJ6BLB_y46H9GIjB0TZT155rkJlaVOkb?usp=sharing
 
 ## Clustering of timeseries data
