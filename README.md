@@ -34,13 +34,17 @@ Colab Link - [![Open in Colab](https://colab.research.google.com/assets/colab-ba
 https://colab.research.google.com/drive/1DJ6BLB_y46H9GIjB0TZT155rkJlaVOkb?usp=sharing
 
 ## Clustering of timeseries data
-Clustered the sales dataset to identify periods with similar sales trends.
+Clustering of sales dataset to identify periods with similar sales trends.
 
 Colab Link - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1R0rwNI5-Uwb9s2tDJdKNt4LMT8iJcRnZ?usp=sharing)
 
 https://colab.research.google.com/drive/1R0rwNI5-Uwb9s2tDJdKNt4LMT8iJcRnZ?usp=sharing
 
 ## Clustering of documents using state of art embeddings (LLM Embeddings)
+Clustering of essay documents using SOTA embeddings
+
+Colab Link - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TCWx-f_zhn0H6tOEr1OrTdSzXYXqAWgv?usp=sharing)
+
 https://colab.research.google.com/drive/1TCWx-f_zhn0H6tOEr1OrTdSzXYXqAWgv?usp=sharing
 
 ## Clustering of images using imagebind llm embeddings 
