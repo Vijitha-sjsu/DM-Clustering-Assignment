@@ -48,7 +48,15 @@ Colab Link - [![Open in Colab](https://colab.research.google.com/assets/colab-ba
 https://colab.research.google.com/drive/1TCWx-f_zhn0H6tOEr1OrTdSzXYXqAWgv?usp=sharing
 
 ## Clustering of images using imagebind llm embeddings 
+Clustering of cancer images
+
+Colab Link - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/173UenJg_Pt6GO4xrDxL12jXmnK-9eU1J?usp=sharing)
+
 https://colab.research.google.com/drive/173UenJg_Pt6GO4xrDxL12jXmnK-9eU1J?usp=sharing
 
 ## Audio embeddings using imagebind llms
+Clustering of cat dog audio 
+
+Colab Link - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E7L16yCs7AWmshsqKMULN61GLg9zXZRH?usp=sharing)
+
 https://colab.research.google.com/drive/1E7L16yCs7AWmshsqKMULN61GLg9zXZRH?usp=sharing
