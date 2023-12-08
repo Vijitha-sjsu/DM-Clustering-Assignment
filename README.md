@@ -22,6 +22,8 @@ Colab Link - [![Open in Colab](https://colab.research.google.com/assets/colab-ba
 https://colab.research.google.com/drive/12mUspkE3TFKwosz3mIAeCVf0iyf9VVKH?usp=sharing
 
 ## DB Scan clustering
+Colab Link - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rVNjZRskdII6z3CBT3RdIG5YjFg3kxHP?usp=sharing)
+
 https://colab.research.google.com/drive/1rVNjZRskdII6z3CBT3RdIG5YjFg3kxHP?usp=sharing
 
 ## Anomaly detection
