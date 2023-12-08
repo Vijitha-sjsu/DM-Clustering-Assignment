@@ -8,6 +8,10 @@ Colab link - [![Open in Colab](https://colab.research.google.com/assets/colab-ba
 https://colab.research.google.com/drive/1NQy3tL2QvJOxIiB9OmyEeruR3b9L4nUP?usp=sharing
 
 ## Hierarchical clustering
+Did customer segmentation with hierarchical clustering using mall customer dataset. 
+
+Colab link - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gMGPAMBv_g8p_VrXA5UzhjqdLEgveuYt?usp=sharing)
+
 https://colab.research.google.com/drive/1gMGPAMBv_g8p_VrXA5UzhjqdLEgveuYt?usp=sharing
 
 ## Gaussian mixture models clustering
