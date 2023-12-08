@@ -1,6 +1,10 @@
 # DM-Clustering-Assignment
 
 ## K-Means clustering from scratch
+Did customer segmentation from scratch using mall customer dataset. 
+
+Colab link - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NQy3tL2QvJOxIiB9OmyEeruR3b9L4nUP?usp=sharing)
+
 https://colab.research.google.com/drive/1NQy3tL2QvJOxIiB9OmyEeruR3b9L4nUP?usp=sharing
 
 ## Hierarchical clustering
